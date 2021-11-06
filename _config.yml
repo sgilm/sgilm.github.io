@@ -20,14 +20,12 @@
 
 title: Sam Gilmour
 email: your-email@example.com
-description: Sam Gilmour is a PhD student at the MIT Operations Research Center.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username: sgilm
+url: "https://sgilm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: academic
+# theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
@@ -53,43 +51,18 @@ plugins:
 
 # Academic theme config.
 
-title_html: Sam Gilmour
+## General.
 
-# Prose config.
+title_html: "Sam <b>Gilmour</b>"
+description: >
+  PhD student in the MIT Operations Research Center.
 
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://sgilm.github.io/'
-  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  # ignore:
-  #   - index.md
-  #   - _config.yml
-  #   - /_layouts
-  #   - /_includes
-  # metadata:
-  #   _posts:
-  #     - name: "layout"
-  #       field:
-  #         element: "hidden"
-  #         value: "blog"
-  #     - name: "tags"
-  #       field:
-  #         element: "multiselect"
-  #         label: "Add Tags"
-  #         placeholder: "Choose Tags"
-  #         options:
-  #           - name: "Apples"
-  #             value: "apples"
-  #           - name: "Bananas"
-  #             value: "bananas"
-  #   _posts/static:
-  #     - name: "layout"
-  #       field:
-  #         element: "hidden"
-  #         value: "page"
-  #     - name: "permalink"
-  #       field:
-  #         element: "text"
-  #         label: "Permalink"
-  #         value: ""
+## Author.
+
+email: <first initial><surname>@mit.edu
+curriculum:
+  name: cv
+  url: /todo.pdf
+shortbio: I'm a PhD student in the MIT Operations Research Center.
+github_username: sgilm
+linkedin_username: sam-gilmour
