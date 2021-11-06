@@ -62,7 +62,7 @@ description: >
 email: <first initial><surname>@mit.edu
 curriculum:
   name: cv
-  url: /todo.pdf
+  url: assets/todo.pdf
 shortbio: I'm a PhD student in the MIT Operations Research Center.
 github_username: sgilm
 linkedin_username: sam-gilmour
