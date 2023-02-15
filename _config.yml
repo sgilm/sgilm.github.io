@@ -28,6 +28,7 @@ url: "https://sgilm.github.io" # the base hostname & protocol for your site, e.g
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
