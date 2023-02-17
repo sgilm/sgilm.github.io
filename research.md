@@ -6,7 +6,7 @@ title: Research
 ### Research Papers
 
 * Allocating Scarce Resources using Scoring Rules: Modelling and Optimization ([working paper](assets/allocation_paper.pdf))
-* On the Impact of Mass Screening for SARS-CoV-2 through Self-Testing in Greece ([medRxiv](assets/self_tests_analysis.pdf))
+* On the Impact of Mass Screening for SARS-CoV-2 through Self-Testing in Greece ([medRxiv](https://www.medrxiv.org/content/10.1101/2023.02.15.23285963v1))
 
 ### PhD Coursework Research Projects
 
